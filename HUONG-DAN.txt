@@ -1,0 +1,6 @@
+Gui ca thu muc nay, tru khi duoc bao chi gui mot vai file.
+Moi file deu nho hon 25 MB. Khong co file .exe va khong co file .zip.
+
+May kia: giu tat ca file trong cung mot thu muc, roi double-click mo.bat.
+Lan sau neu chi nhan file thay the: copy de len file cung ten, roi chay lai mo.bat.
+Khong can cai Python.
